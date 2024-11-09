@@ -1,3 +1,9 @@
 title: "Wiguna Kurniawan"
 description: "Portfolio and Blog of Wiguna Kurniawan"
-theme: jekyll-theme-cayman # atau tema lain seperti jekyll-theme-minimal, jekyll-theme-slate, dll.
+url: "https://wigunakurniawan.github.io/wigunakurniawan-website"  # Ganti dengan URL GitHub Pages Anda
+baseurl: ""  # Kosongkan jika menggunakan custom domain atau sesuaikan jika ada
+remote_theme: "mmistakes/minimal-mistakes"  # Menyambungkan ke tema Minimal Mistakes
+
+# Pengaturan lainnya
+plugins:
+  - jekyll-feed
